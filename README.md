@@ -2,17 +2,17 @@
   ◇    H E I M D A L L - O R G    ◇         
 
 
-# Crystalline Labs
+# Crystalline Research
 
 <p align="center">
-  <img src="assets/unified-framework.png" alt="Crystalline Labs" width="800"/>
+  <img src="assets/unified-framework.png" alt="Crystalline Framework" width="800"/>
 </p>
 
-<h3 align="center">Physics-Based Programming Languages</h3>
+<h3 align="center">Geometric Programming Languages</h3>
 
 <p align="center">
-  Geometric programming languages built on field theory:<br/>
-  <strong>WPE/TME</strong> (AI reasoning, semantic calculus) · <strong>Crystalline</strong> (code synthesis, optimization). Physics-based, deterministic.
+  Two novel languages built on field theory and geometric calculus<br/>
+  <strong>WPE/TME</strong> for structural reasoning · <strong>Crystalline</strong> for code synthesis
 </p>
 
 <p align="center">
@@ -27,14 +27,14 @@
 
 **Two programming languages. One geometric foundation.**
 
-Traditional programming lacks explicit representation of structure, coupling, and temporal relationships. We built two languages using field theory:
+Traditional programming lacks explicit representation of structure, coupling, and temporal relationships. These languages use field theory and geometric calculus to make these explicit:
 
 | Language | Purpose | Key Innovation |
 |----------|---------|----------------|
-| **[WPE/TME](#-wpetme-language)** | AI reasoning & semantic encoding | Explicit structure via 4 geometric parameters |
-| **[Crystalline](#-crystalline-language)** | Optimal code synthesis | Physics-guided evolutionary optimization |
+| **[WPE/TME](#-wpetme-language)** | Structural & temporal reasoning | 4-parameter geometric encoding |
+| **[Crystalline](#-crystalline-language)** | Code synthesis | Physics-guided optimization |
 
-Both are **deterministic** (same input → same output), **explainable** (energy equations show why), and **provably optimal** (mathematical guarantees).
+Both are **deterministic** (same input → same output), **explainable** (equations show why), and **geometric** (structure encoded in parameters).
 
 ---
 
@@ -45,9 +45,9 @@ Both are **deterministic** (same input → same output), **explainable** (energy
 [![Repo](https://img.shields.io/badge/repo-wpe--tme--language-blue)](https://github.com/[user]/wpe-tme-language)
 [![Paper](https://img.shields.io/badge/paper-ResearchGate-00CCBB)](https://researchgate.net/publication/[id])
 
-**What it does:** Provides text-native notation for encoding semantic relationships with explicit coupling strengths, hierarchical influences, and temporal ordering.
+**What it is:** A notation system (like mathematical notation) for encoding semantic relationships with explicit coupling strengths, hierarchical influences, and temporal ordering.
 
-**Why it matters:** LLMs reason implicitly. WPE/TME makes structure explicit and manipulable.
+**Why it matters:** Structure is implicit in most systems. WPE/TME makes it explicit and manipulable.
 
 ### Example
 
@@ -69,20 +69,26 @@ Actuator <-> Sensor     # cos(180°) = -1 (opposition, feedback)
 - Temporal logic (left-to-right = forward in time)
 - System modeling (encode complex relationships)
 
-📄 [Read the paper](https://researchgate.net/publication/[id]) | 🔧 [Try it →](https://github.com/[user]/wpe-tme-language)
+📄 [Read the paper](https://researchgate.net/publication/[id]) | 📖 [View specification →](https://github.com/[user]/wpe-tme-language)
 
 ---
 
 ## ⚡ Crystalline Language
 
-> **Physics-based code synthesis through evolutionary optimization**
+> **Code synthesis through geometric field optimization**
 
 [![Repo](https://img.shields.io/badge/repo-crystalline--language-blue)](https://github.com/[user]/crystalline-language)
 [![Paper](https://img.shields.io/badge/paper-ResearchGate-00CCBB)](https://researchgate.net/publication/[id])
 
-**What it does:** Synthesizes optimal code by treating program structure as an electromagnetic field, then evolving through physics-guided transformations.
+**What it is:** A language for synthesizing code by treating program structure as a geometric field, then optimizing through evolutionary transformations.
 
-**Why it matters:** 3-4× faster code than human-written. Discovers optimizations not in any template.
+**Why it matters:** Enables systematic code generation with explainable decision-making and deterministic output.
+
+### Components
+
+**Crystalline Core:** Language specification and synthesis engine
+
+**Intelligent Manifolds:** Subproject for adaptive computational structures
 
 ### Example
 
@@ -96,25 +102,18 @@ synthesize {
 ```
 
 **What Crystalline discovers:**
-- ✅ Async I/O (not in template)
-- ✅ Streaming generators (O(n) → O(1) space)
-- ✅ Parallel execution (automatic detection)
-- ✅ Loop fusion (eliminates redundancy)
+- Async I/O patterns
+- Streaming generators
+- Parallel execution opportunities
+- Loop fusion optimizations
 
-**Result:** 3.35× faster, 12 atoms vs 23 atoms
+**Process:**
+1. Field architecture optimization (golden angle phase spacing)
+2. Computational atom decomposition
+3. Evolutionary synthesis (physics-guided transformations)
+4. Code generation with synthesis certificate
 
-### Benchmark Results
-
-| Task | Human | Crystalline | Improvement |
-|------|-------|-------------|-------------|
-| API Integration | 23 atoms | 12 atoms | **3.35×** |
-| Data Pipeline | 31 atoms | 16 atoms | **3.78×** |
-| Stream Processing | 28 atoms | 14 atoms | **3.21×** |
-| Sort Algorithm | 18 atoms | 9 atoms | **2.94×** |
-
-Average: **3.32× performance improvement**
-
-📄 [Read the paper](https://researchgate.net/publication/[id]) | 🔧 [Try it →](https://github.com/[user]/crystalline-language)
+📄 [Read the paper](https://researchgate.net/publication/[id]) | 🔧 [View specification →](https://github.com/[user]/crystalline-language)
 
 ---
 
@@ -138,13 +137,13 @@ Seven-layer framework applying WPE/TME to biology:
 
 **Key innovation:** DNA sequences encode computational logic through geometric principles (LYRA Θ∞ interface).
 
-📄 [Read the paper](https://researchgate.net/publication/[id]) | 🔧 [View examples →](https://github.com/[user]/biogenerative-crystal)
+📄 [Read the paper](https://researchgate.net/publication/[id]) | 🧬 [View examples →](https://github.com/[user]/biogenerative-crystal)
 
 ---
 
 ## The Unified Theory
 
-All three systems share 4-parameter geometric encoding:
+All systems share 4-parameter geometric encoding:
 
 | Parameter | Symbol | Meaning | Example Values |
 |-----------|--------|---------|----------------|
@@ -183,7 +182,7 @@ E = ∫[|∇Ψ|² + κΨ² + Σγⱼₖ ΨⱼΨₖ + Σαᵢⱼ⟨Ψᵢ|Ψⱼ⟩
 
 ## Quick Start
 
-### Install WPE/TME
+### WPE/TME (Notation)
 
 ```bash
 git clone https://github.com/[user]/wpe-tme-language
@@ -192,15 +191,15 @@ cd wpe-tme-language
 # View language specification
 cat specification/wpe-core.md
 
-# Try examples
+# View examples (pure notation)
 cat examples/feedback-loop.wpe
-
-# Run Python reference implementation
-cd reference-implementation/python
-python wpe_parser.py ../../examples/feedback-loop.wpe
+cat examples/multi-agent-system.wpe
+cat examples/temporal-sequences.tme
 ```
 
-### Install Crystalline
+**Note:** WPE/TME are notation systems (like LaTeX for math). There is no "implementation" - you write directly in the notation.
+
+### Crystalline (Synthesis)
 
 ```bash
 git clone https://github.com/[user]/crystalline-language
@@ -209,27 +208,27 @@ cd crystalline-language
 # View language specification
 cat specification/language-spec.md
 
-# Run Python implementation
+# View Python synthesis engine
 cd implementation/python
 python crystalline_codegen_v3_1.py "API integration, optimize for speed"
 ```
 
-### Install BioGenerative
+### BioGenerative
 
 ```bash
 git clone https://github.com/[user]/biogenerative-crystal
 cd biogenerative-crystal
 
-# View examples
+# View examples in WPE/TME notation
 cat examples/glycolysis.wpe
 
-# Run implementation
+# Run Python modeling framework
 python examples/glycolysis.py
 ```
 
 ---
 
-## Why Physics?
+## Why Geometry?
 
 **The problem:** Neural networks are black boxes. Templates are limited. Traditional paradigms don't capture geometric properties of information.
 
@@ -238,9 +237,17 @@ python examples/glycolysis.py
 **The result:** Two novel programming languages with:
 - ✅ **Deterministic execution** (reproducible)
 - ✅ **Explainable decisions** (energy equations)
-- ✅ **Provable optimality** (mathematical guarantees)
+- ✅ **Geometric optimization** (golden angle, phase coupling)
 - ✅ **Cross-domain applicability** (same math, different substrates)
 
+### Field Theory Principles
+
+The mathematics comes from electromagnetic field theory:
+- **Golden angle** (φ = 137.5°) creates optimal phase spacing
+- **Curvature minimization** (δS/δΨ = 0) finds stable configurations
+- **Energy functionals** guide evolution toward optima
+
+Applied to programming, this enables genuinely novel language designs.
 
 ---
 
@@ -251,8 +258,12 @@ python examples/glycolysis.py
 [ResearchGate](https://researchgate.net/publication/[id]) • [PDF](papers/wpe_tme_paper.pdf)
 
 📄 **Crystalline: Physics-Guided Evolutionary Code Synthesis** (25 pages)  
-*Language specification for optimal code generation*  
+*Language specification for code generation*  
 [ResearchGate](https://researchgate.net/publication/[id]) • [PDF](papers/crystalline_paper.pdf)
+
+📄 **Intelligent Manifolds: Adaptive Computational Structures** (20 pages)  
+*Subproject within Crystalline for self-organizing computation*  
+[ResearchGate](https://researchgate.net/publication/[id]) • [PDF](papers/intelligent_manifolds_paper.pdf)
 
 📄 **BioGenerative Cognition Crystal** (30 pages)  
 *Multi-scale biological modeling framework*  
@@ -265,14 +276,14 @@ python examples/glycolysis.py
 ### For Each Language
 
 **WPE/TME:**
-- [Language Guide](https://github.com/[user]/wpe-tme-language/blob/main/docs/language-guide.md) - Syntax and semantics
+- [Language Specification](https://github.com/[user]/wpe-tme-language/blob/main/specification/wpe-core.md) - Full syntax and semantics
 - [Tutorial](https://github.com/[user]/wpe-tme-language/blob/main/docs/tutorial.md) - Learn by example
-- [API Reference](https://github.com/[user]/wpe-tme-language/blob/main/docs/api-reference.md) - Python implementation
+- [Encoding Patterns](https://github.com/[user]/wpe-tme-language/blob/main/docs/encoding-patterns.md) - Common structures
 
 **Crystalline:**
 - [Language Spec](https://github.com/[user]/crystalline-language/blob/main/specification/language-spec.md) - Formal specification
-- [Field Theory](https://github.com/[user]/crystalline-language/blob/main/specification/field-theory.md) - Physics foundation
-- [Tutorial](https://github.com/[user]/crystalline-language/blob/main/docs/tutorial.md) - Getting started
+- [Field Theory](https://github.com/[user]/crystalline-language/blob/main/specification/field-theory.md) - Mathematical foundation
+- [Intelligent Manifolds](https://github.com/[user]/crystalline-language/blob/main/intelligent-manifolds/README.md) - Subproject documentation
 
 **BioGenerative:**
 - [Architecture](https://github.com/[user]/biogenerative-crystal/blob/main/docs/architecture.md) - 7-layer overview
@@ -311,8 +322,15 @@ If you use these languages in your research, please cite:
   note={Programming language specification}
 }
 
+@article{yourname2025manifolds,
+  title={Intelligent Manifolds: Adaptive Computational Structures},
+  author={Your Name},
+  year={2025},
+  url={https://github.com/[user]/crystalline-language/tree/main/intelligent-manifolds}
+}
+
 @article{yourname2025biogen,
-  title={BioGenerative Cognition Crystal: Multi-Scale Biological Intelligence},
+  title{BioGenerative Cognition Crystal: Multi-Scale Biological Intelligence},
   author={Your Name},
   year={2025},
   url={https://github.com/[user]/biogenerative-crystal}
@@ -330,33 +348,27 @@ All projects: [MIT License](LICENSE)
 ## Roadmap
 
 ### Q1 2026
-- [ ] Complete benchmark suite (20+ test cases)
-- [ ] VS Code syntax highlighting for WPE/TME
-- [ ] Crystalline compiler optimizations
-- [ ] Interactive web demo
+- [ ] Complete language specifications
+- [ ] Syntax highlighting for editors
+- [ ] Interactive web demos
+- [ ] Community examples library
 
 ### Q2 2026
-- [ ] Rust implementation (both languages)
-- [ ] Julia implementation
+- [ ] Additional target languages (Rust, Julia)
 - [ ] Language server protocol (LSP) support
-- [ ] Standard library expansions
-
-### Q3 2026
-- [ ] Wet lab validation (BioGenerative)
-- [ ] Production deployments (Crystalline)
-- [ ] Conference presentations
+- [ ] Formal verification tools
 - [ ] Academic collaborations
 
-### Community Wishlist
-- [ ] C++ target for Crystalline
-- [ ] WebAssembly compilation
-- [ ] Formal verification tools
-- [ ] IDE plugins (JetBrains, etc.)
+### Q3 2026
+- [ ] Production use cases
+- [ ] Conference presentations
+- [ ] Standardization efforts
+- [ ] Educational materials
 
 ---
 
 <p align="center">
-  <strong>Two languages. One foundation. Built with physics.</strong>
+  <strong>Two languages. One foundation. Built with geometry.</strong>
 </p>
 
 <p align="center">
@@ -367,6 +379,11 @@ All projects: [MIT License](LICENSE)
 
 <p align="center">
   ⭐ Star us if this interests you!
+</p>
+
+---
+
+**Built by Chris Young** • Research in computational physics, programming language design, and geometric systems
 </p>
 
 ---
