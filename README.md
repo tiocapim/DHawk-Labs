@@ -4,11 +4,8 @@
 
 # D'Hawk Labs
 
-<p align="center">
-  <img src="assets/unified-framework.png" alt="D'Hawk Labs" width="800"/>
-</p>
 
-<h3 align="center">Geometric Programming Languages</h3>
+<h3 align="center">Geometric Programming Languages and Knowledge Representation</h3>
 
 <p align="center">
   Two novel languages built on field theory and geometric calculus<br/>
@@ -16,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://researchgate.net/[your-profile]"><img src="https://img.shields.io/badge/Papers-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate" alt="Papers"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License: MIT"/></a>
-  <a href="https://github.com/[user]/crystalline-research/stargazers"><img src="https://img.shields.io/github/stars/[user]/crystalline-research?style=for-the-badge" alt="Stars"/></a>
+  <a href="https://www.researchgate.net/profile/Christopher-Young-36?ev=hdr_xprf"><img src="https://img.shields.io/badge/Papers-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate" alt="Papers"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache 2.0-blue.svg?style=for-the-badge" alt="License: MIT"/></a>
+  <a href="https://github.com/Heimdall-Organization/DHawk-Labs/stargazers"><img src="https://img.shields.io/github/stars/Heimdall-Organization/DHawk-Labs?style=for-the-badge" alt="Stars"/></a>
 </p>
 
 ---
@@ -42,8 +39,8 @@ Both are **deterministic** (same input → same output), **explainable** (equati
 
 > **Geometric calculus for structural and temporal reasoning**
 
-[![Repo](https://img.shields.io/badge/repo-wpe--tme--language-blue)](https://github.com/[user]/wpe-tme-language)
-[![Paper](https://img.shields.io/badge/paper-ResearchGate-00CCBB)](https://researchgate.net/publication/[id])
+[![Repo](https://img.shields.io/badge/repo-wpe--tme--language-blue)](https://github.com/Heimdall-Organization/wpe-tme-language)
+[![Paper](https://img.shields.io/badge/paper-ResearchGate-00CCBB)](https://doi.org/10.13140/RG.2.2.28299.55844)
 
 **What it is:** A notation system (like mathematical notation) for encoding semantic relationships with explicit coupling strengths, hierarchical influences, and temporal ordering.
 
@@ -69,7 +66,7 @@ Actuator <-> Sensor     # cos(180°) = -1 (opposition, feedback)
 - Temporal logic (left-to-right = forward in time)
 - System modeling (encode complex relationships)
 
-📄 [Read the paper](https://researchgate.net/publication/[id]) | 📖 [View specification →](https://github.com/[user]/wpe-tme-language)
+📄 [Read the paper](https://doi.org/10.13140/RG.2.2.28299.55844) | 📖 [View specification →](https://github.com/Heimdall-Organization/wpe-tme-language)
 
 ---
 
@@ -77,8 +74,8 @@ Actuator <-> Sensor     # cos(180°) = -1 (opposition, feedback)
 
 > **Code synthesis through geometric field optimization**
 
-[![Repo](https://img.shields.io/badge/repo-crystalline--language-blue)](https://github.com/[user]/crystalline-language)
-[![Paper](https://img.shields.io/badge/paper-ResearchGate-00CCBB)](https://researchgate.net/publication/[id])
+[![Repo](https://img.shields.io/badge/repo-crystalline--language-blue)](https://github.com/Heimdall-Organization/crystalline-language)
+[![Paper](https://img.shields.io/badge/paper-ResearchGate-00CCBB)](https://doi.org/10.13140/RG.2.2.31655.00169)
 
 **What it is:** A language for synthesizing code by treating program structure as a geometric field, then optimizing through evolutionary transformations.
 
@@ -113,7 +110,7 @@ synthesize {
 3. Evolutionary synthesis (physics-guided transformations)
 4. Code generation with synthesis certificate
 
-📄 [Read the paper](https://researchgate.net/publication/[id]) | 🔧 [View specification →](https://github.com/[user]/crystalline-language)
+📄 [Read the paper](https://doi.org/10.13140/RG.2.2.31655.00169) | 🔧 [View specification →](https://github.com/Heimdall-Organization/crystalline-language)
 
 ---
 
@@ -121,8 +118,8 @@ synthesize {
 
 > **Multi-scale biological modeling using WPE/TME**
 
-[![Repo](https://img.shields.io/badge/repo-biogenerative--crystal-blue)](https://github.com/[user]/biogenerative-crystal)
-[![Paper](https://img.shields.io/badge/paper-ResearchGate-00CCBB)](https://researchgate.net/publication/[id])
+[![Repo](https://img.shields.io/badge/repo-biogenerative--crystal-blue)](https://github.com/Heimdall-Organization/biogenerative-crystal)
+[![Paper](https://img.shields.io/badge/paper-ResearchGate-00CCBB)](https://doi.org/10.13140/RG.2.2.31969.57448)
 
 Seven-layer framework applying WPE/TME to biology:
 
@@ -137,7 +134,7 @@ Seven-layer framework applying WPE/TME to biology:
 
 **Key innovation:** DNA sequences encode computational logic through geometric principles (LYRA Θ∞ interface).
 
-📄 [Read the paper](https://researchgate.net/publication/[id]) | 🧬 [View examples →](https://github.com/[user]/biogenerative-crystal)
+📄 [Read the paper](https://doi.org/10.13140/RG.2.2.31969.57448) | 🧬 [View examples →](https://github.com/Heimdall-Organization/biogenerative-crystal)
 
 ---
 
@@ -255,93 +252,28 @@ Applied to programming, this enables genuinely novel language designs.
 
 📄 **WPE & TME: A Geometric Calculus for Structural and Temporal Reasoning** (30 pages)  
 *Language specification and formal semantics*  
-[ResearchGate](https://researchgate.net/publication/[id]) • [PDF](papers/wpe_tme_paper.pdf)
+[ResearchGate](https://doi.org/10.13140/RG.2.2.28299.55844) • [PDF](https://github.com/Heimdall-Organization/wpe-tme-language/blob/main/WPE_TME_Semantic_Calculus__A_Geometric_Framework_for_Structural_and_Temporal_Reasoning_in_AI_Systems%20(1).pdf)
 
 📄 **Crystalline: Physics-Guided Evolutionary Code Synthesis** (25 pages)  
 *Language specification for code generation*  
-[ResearchGate](https://researchgate.net/publication/[id]) • [PDF](papers/crystalline_paper.pdf)
-
-📄 **Intelligent Manifolds: Adaptive Computational Structures** (20 pages)  
-*Subproject within Crystalline for self-organizing computation*  
-[ResearchGate](https://researchgate.net/publication/[id]) • [PDF](papers/intelligent_manifolds_paper.pdf)
+[ResearchGate](https://doi.org/10.13140/RG.2.2.31655.00169) • [PDF](https://github.com/Heimdall-Organization/crystalline-language/blob/main/The_Crystalline_Dual_Track_Computational_Framework__Mathematical_Foundations__Semantic_Preservation__and_Connections_to_Geometric_Phase_Calculi%20(1).pdf)
 
 📄 **BioGenerative Cognition Crystal** (30 pages)  
 *Multi-scale biological modeling framework*  
-[ResearchGate](https://researchgate.net/publication/[id]) • [PDF](papers/biogenerative_paper.pdf)
-
----
-
-## Documentation
-
-### For Each Language
-
-**WPE/TME:**
-- [Language Specification](https://github.com/[user]/wpe-tme-language/blob/main/specification/wpe-core.md) - Full syntax and semantics
-- [Tutorial](https://github.com/[user]/wpe-tme-language/blob/main/docs/tutorial.md) - Learn by example
-- [Encoding Patterns](https://github.com/[user]/wpe-tme-language/blob/main/docs/encoding-patterns.md) - Common structures
-
-**Crystalline:**
-- [Language Spec](https://github.com/[user]/crystalline-language/blob/main/specification/language-spec.md) - Formal specification
-- [Field Theory](https://github.com/[user]/crystalline-language/blob/main/specification/field-theory.md) - Mathematical foundation
-- [Intelligent Manifolds](https://github.com/[user]/crystalline-language/blob/main/intelligent-manifolds/README.md) - Subproject documentation
-
-**BioGenerative:**
-- [Architecture](https://github.com/[user]/biogenerative-crystal/blob/main/docs/architecture.md) - 7-layer overview
-- [DNA Encoding](https://github.com/[user]/biogenerative-crystal/blob/main/docs/dna-encoding.md) - LYRA interface
-- [Examples](https://github.com/[user]/biogenerative-crystal/blob/main/docs/examples.md) - Biological systems
+[ResearchGate](https://doi.org/10.13140/RG.2.2.31969.57448) • [PDF](https://github.com/Heimdall-Organization/biogenerative-architecture/blob/main/Constraint_Based_Generative_Architecture_for_Biological_Systems.pdf)
 
 ---
 
 ## Community
 
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/[user]/crystalline-research/discussions)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/Heimdall-Organization/crystalline-research/discussions)
 - 🐛 **Issues:** Report bugs or request features in individual repos
-- 🤝 **Contributing:** See [CONTRIBUTING.md](CONTRIBUTING.md)
-- 📜 **Code of Conduct:** [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
-
----
-
-## Citation
-
-If you use these languages in your research, please cite:
-
-```bibtex
-@article{yourname2025wpe,
-  title={WPE \& TME: A Geometric Calculus for Structural and Temporal Reasoning},
-  author={Your Name},
-  year={2025},
-  url={https://github.com/[user]/wpe-tme-language},
-  note={Programming language specification}
-}
-
-@article{yourname2025crystalline,
-  title={Crystalline: Physics-Guided Evolutionary Code Synthesis},
-  author={Your Name},
-  year={2025},
-  url={https://github.com/[user]/crystalline-language},
-  note={Programming language specification}
-}
-
-@article{yourname2025manifolds,
-  title={Intelligent Manifolds: Adaptive Computational Structures},
-  author={Your Name},
-  year={2025},
-  url={https://github.com/[user]/crystalline-language/tree/main/intelligent-manifolds}
-}
-
-@article{yourname2025biogen,
-  title{BioGenerative Cognition Crystal: Multi-Scale Biological Intelligence},
-  author={Your Name},
-  year={2025},
-  url={https://github.com/[user]/biogenerative-crystal}
-}
-```
 
 ---
 
 ## License
 
-All projects: [MIT License](LICENSE)
+All projects: [Apache 2.0 License](LICENSE)
 
 ---
 
@@ -371,11 +303,6 @@ All projects: [MIT License](LICENSE)
   <strong>Two languages. One foundation. Built with geometry.</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/[user]/wpe-tme-language">WPE/TME Language →</a> •
-  <a href="https://github.com/[user]/crystalline-language">Crystalline Language →</a> •
-  <a href="https://github.com/[user]/biogenerative-crystal">BioGenerative →</a>
-</p>
 
 <p align="center">
   ⭐ Star us if this interests you!
